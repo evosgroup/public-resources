@@ -1,0 +1,10 @@
+<site-list>
+  <site url="beloscrp.mbholding.intra:7778" comment="" flagged="false">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="beloscrg56.mbholding.intra:8085" comment="" flagged="false">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+</site-list>
