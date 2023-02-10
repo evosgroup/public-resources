@@ -12,7 +12,19 @@
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
-    <site url="beloscrt1.mbholding.intra:8071/">
+  <site url="beloscrt1.mbholding.intra:8071/">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="oscarebsbepa.mcx.nl:8000">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="oscarebsbeta.mcx.nl:8000">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="oscarebsbeda.mcx.nl:8000">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
